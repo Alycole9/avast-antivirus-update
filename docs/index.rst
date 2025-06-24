@@ -7,7 +7,7 @@ Avast is one of the leading cybersecurity companies, offering a wide range of pr
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://navisolve.com/
+   :target: https://getchatsupport.live/
 
 Avast antivirus is widely used to safeguard computers, mobile devices, and networks from various forms of malware, viruses, spyware, and other online threats. However, in order for Avast antivirus to continue providing effective protection, it is crucial to regularly update its virus definitions, program files, and features. These updates are critical for detecting and neutralizing new and emerging threats.
 
